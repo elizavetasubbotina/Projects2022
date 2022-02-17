@@ -47,3 +47,9 @@
 Учётная запись на GitHub: https://github.com/MaryStay
 
 Ссылка на проект: https://github.com/MaryStay/MyProject
+
+## Субботина Елизавета
+
+Учетная запись на GitHub: https://github.com/elizavetasubbotina
+
+Ссылка на проект: https://github.com/elizavetasubbotina/myproject
